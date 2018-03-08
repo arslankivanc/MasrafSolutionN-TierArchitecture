@@ -1,0 +1,28 @@
+C:\Users\ts_ki\Documents\Visual Studio 2017\Backup Files\MasrafSolution\Masraf.PL\bin\Debug\Masraf.PL.dll
+C:\Users\ts_ki\Documents\Visual Studio 2017\Backup Files\MasrafSolution\Masraf.PL\bin\Debug\Masraf.PL.pdb
+C:\Users\ts_ki\Documents\Visual Studio 2017\Backup Files\MasrafSolution\Masraf.PL\obj\Debug\Masraf.PL.csprojResolveAssemblyReference.cache
+C:\Users\ts_ki\Documents\Visual Studio 2017\Backup Files\MasrafSolution\Masraf.PL\obj\Debug\Masraf.PL.csproj.CoreCompileInputs.cache
+C:\Users\ts_ki\Documents\Visual Studio 2017\Backup Files\MasrafSolution\Masraf.PL\obj\Debug\Masraf.PL.dll
+C:\Users\ts_ki\Documents\Visual Studio 2017\Backup Files\MasrafSolution\Masraf.PL\obj\Debug\Masraf.PL.pdb
+C:\Users\ts_ki\Documents\Visual Studio 2017\Backup Files\MasrafSolution\Masraf.PL\bin\Debug\Masraf.PL.dll.config
+C:\Users\ts_ki\Documents\Visual Studio 2017\Backup Files\MasrafSolution\Masraf.PL\bin\Debug\EntityFramework.dll
+C:\Users\ts_ki\Documents\Visual Studio 2017\Backup Files\MasrafSolution\Masraf.PL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ts_ki\Documents\Visual Studio 2017\Backup Files\MasrafSolution\Masraf.PL\bin\Debug\Masraf.DAL.dll
+C:\Users\ts_ki\Documents\Visual Studio 2017\Backup Files\MasrafSolution\Masraf.PL\bin\Debug\Masraf.DAL.pdb
+C:\Users\ts_ki\Documents\Visual Studio 2017\Backup Files\MasrafSolution\Masraf.PL\bin\Debug\Masraf.DAL.dll.config
+C:\Users\ts_ki\Documents\Visual Studio 2017\Backup Files\MasrafSolution\Masraf.PL\bin\Debug\EntityFramework.xml
+C:\Users\ts_ki\Documents\Visual Studio 2017\Backup Files\MasrafSolution\Masraf.PL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\KArslan\Desktop\kıvanç_arslan_MasrafTakip\kıvanç_arslan_MasrafTakip\MasrafSolution\Masraf.PL\bin\Debug\Masraf.PL.dll.config
+C:\Users\KArslan\Desktop\kıvanç_arslan_MasrafTakip\kıvanç_arslan_MasrafTakip\MasrafSolution\Masraf.PL\bin\Debug\Masraf.PL.dll
+C:\Users\KArslan\Desktop\kıvanç_arslan_MasrafTakip\kıvanç_arslan_MasrafTakip\MasrafSolution\Masraf.PL\bin\Debug\Masraf.PL.pdb
+C:\Users\KArslan\Desktop\kıvanç_arslan_MasrafTakip\kıvanç_arslan_MasrafTakip\MasrafSolution\Masraf.PL\bin\Debug\EntityFramework.dll
+C:\Users\KArslan\Desktop\kıvanç_arslan_MasrafTakip\kıvanç_arslan_MasrafTakip\MasrafSolution\Masraf.PL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\KArslan\Desktop\kıvanç_arslan_MasrafTakip\kıvanç_arslan_MasrafTakip\MasrafSolution\Masraf.PL\bin\Debug\Masraf.DAL.dll
+C:\Users\KArslan\Desktop\kıvanç_arslan_MasrafTakip\kıvanç_arslan_MasrafTakip\MasrafSolution\Masraf.PL\bin\Debug\Masraf.DAL.pdb
+C:\Users\KArslan\Desktop\kıvanç_arslan_MasrafTakip\kıvanç_arslan_MasrafTakip\MasrafSolution\Masraf.PL\bin\Debug\Masraf.DAL.dll.config
+C:\Users\KArslan\Desktop\kıvanç_arslan_MasrafTakip\kıvanç_arslan_MasrafTakip\MasrafSolution\Masraf.PL\bin\Debug\EntityFramework.xml
+C:\Users\KArslan\Desktop\kıvanç_arslan_MasrafTakip\kıvanç_arslan_MasrafTakip\MasrafSolution\Masraf.PL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\KArslan\Desktop\kıvanç_arslan_MasrafTakip\kıvanç_arslan_MasrafTakip\MasrafSolution\Masraf.PL\obj\Debug\Masraf.PL.csprojResolveAssemblyReference.cache
+C:\Users\KArslan\Desktop\kıvanç_arslan_MasrafTakip\kıvanç_arslan_MasrafTakip\MasrafSolution\Masraf.PL\obj\Debug\Masraf.PL.csproj.CoreCompileInputs.cache
+C:\Users\KArslan\Desktop\kıvanç_arslan_MasrafTakip\kıvanç_arslan_MasrafTakip\MasrafSolution\Masraf.PL\obj\Debug\Masraf.PL.dll
+C:\Users\KArslan\Desktop\kıvanç_arslan_MasrafTakip\kıvanç_arslan_MasrafTakip\MasrafSolution\Masraf.PL\obj\Debug\Masraf.PL.pdb

@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="MasrafTakipModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Kisi">
+    <Key>
+      <PropertyRef Name="pid" />
+    </Key>
+    <Property Name="pid" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="İsim" Type="nvarchar" MaxLength="50" />
+    <Property Name="Soyisim" Type="nvarchar" MaxLength="50" />
+    <Property Name="AktifMi" Type="bit" />
+  </EntityType>
+  <EntityType Name="Kullanıcı">
+    <Key>
+      <PropertyRef Name="personid" />
+    </Key>
+    <Property Name="personid" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Username" Type="nvarchar" MaxLength="50" />
+    <Property Name="Password" Type="nvarchar" MaxLength="50" />
+    <Property Name="Aktif" Type="bit" />
+    <Property Name="YöneticiRol" Type="int" />
+  </EntityType>
+  <EntityType Name="Masraflar">
+    <Key>
+      <PropertyRef Name="masrafid" />
+    </Key>
+    <Property Name="masrafid" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Baslik" Type="nvarchar" MaxLength="50" />
+    <Property Name="Tutar" Type="decimal" Precision="18" Scale="0" Nullable="false" />
+    <Property Name="Acıklama" Type="varchar(max)" />
+    <Property Name="Tarih" Type="date" />
+    <Property Name="OnayDurumu" Type="varchar" MaxLength="50" />
+    <Property Name="MasrafSahibi" Type="nvarchar" MaxLength="50" />
+    <Property Name="YetkiRol" Type="int" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <Association Name="FK_Kisi_Kullanıcı">
+    <End Role="Kullanıcı" Type="Self.Kullanıcı" Multiplicity="1" />
+    <End Role="Kisi" Type="Self.Kisi" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="Kullanıcı">
+        <PropertyRef Name="personid" />
+      </Principal>
+      <Dependent Role="Kisi">
+        <PropertyRef Name="pid" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="MasrafTakipModelStoreContainer">
+    <EntitySet Name="Kisi" EntityType="Self.Kisi" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Kullanıcı" EntityType="Self.Kullanıcı" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Masraflar" EntityType="Self.Masraflar" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_Kisi_Kullanıcı" Association="Self.FK_Kisi_Kullanıcı">
+      <End Role="Kullanıcı" EntitySet="Kullanıcı" />
+      <End Role="Kisi" EntitySet="Kisi" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

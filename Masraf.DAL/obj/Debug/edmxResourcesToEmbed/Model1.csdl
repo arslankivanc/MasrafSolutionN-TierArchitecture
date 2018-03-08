@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="MasrafTakipModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Kisi">
+    <Key>
+      <PropertyRef Name="pid" />
+    </Key>
+    <Property Name="pid" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="İsim" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Soyisim" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="AktifMi" Type="Boolean" />
+    <NavigationProperty Name="Kullanıcı" Relationship="Self.FK_Kisi_Kullanıcı" FromRole="Kisi" ToRole="Kullanıcı" />
+  </EntityType>
+  <EntityType Name="Kullanıcı">
+    <Key>
+      <PropertyRef Name="personid" />
+    </Key>
+    <Property Name="personid" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Username" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Password" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Aktif" Type="Boolean" />
+    <Property Name="YöneticiRol" Type="Int32" />
+    <NavigationProperty Name="Kisi" Relationship="Self.FK_Kisi_Kullanıcı" FromRole="Kullanıcı" ToRole="Kisi" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <Association Name="FK_Kisi_Kullanıcı">
+    <End Role="Kullanıcı" Type="Self.Kullanıcı" Multiplicity="1" />
+    <End Role="Kisi" Type="Self.Kisi" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="Kullanıcı">
+        <PropertyRef Name="personid" />
+      </Principal>
+      <Dependent Role="Kisi">
+        <PropertyRef Name="pid" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="MasrafTakipEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Kisi" EntityType="Self.Kisi" />
+    <EntitySet Name="Kullanıcı" EntityType="Self.Kullanıcı" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" />
+    <AssociationSet Name="FK_Kisi_Kullanıcı" Association="Self.FK_Kisi_Kullanıcı">
+      <End Role="Kullanıcı" EntitySet="Kullanıcı" />
+      <End Role="Kisi" EntitySet="Kisi" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,52 @@
+C:\Users\ts_ki\Documents\Visual Studio 2017\Backup Files\MasrafSolution\Masraf.UI\bin\Debug\Masraf.UI.exe.config
+C:\Users\ts_ki\Documents\Visual Studio 2017\Backup Files\MasrafSolution\Masraf.UI\bin\Debug\Masraf.UI.exe
+C:\Users\ts_ki\Documents\Visual Studio 2017\Backup Files\MasrafSolution\Masraf.UI\bin\Debug\Masraf.UI.pdb
+C:\Users\ts_ki\Documents\Visual Studio 2017\Backup Files\MasrafSolution\Masraf.UI\obj\Debug\Masraf.UI.csprojResolveAssemblyReference.cache
+C:\Users\ts_ki\Documents\Visual Studio 2017\Backup Files\MasrafSolution\Masraf.UI\obj\Debug\Masraf.UI.Form1.resources
+C:\Users\ts_ki\Documents\Visual Studio 2017\Backup Files\MasrafSolution\Masraf.UI\obj\Debug\Masraf.UI.Properties.Resources.resources
+C:\Users\ts_ki\Documents\Visual Studio 2017\Backup Files\MasrafSolution\Masraf.UI\obj\Debug\Masraf.UI.csproj.GenerateResource.Cache
+C:\Users\ts_ki\Documents\Visual Studio 2017\Backup Files\MasrafSolution\Masraf.UI\obj\Debug\Masraf.UI.csproj.CoreCompileInputs.cache
+C:\Users\ts_ki\Documents\Visual Studio 2017\Backup Files\MasrafSolution\Masraf.UI\obj\Debug\Masraf.UI.exe
+C:\Users\ts_ki\Documents\Visual Studio 2017\Backup Files\MasrafSolution\Masraf.UI\obj\Debug\Masraf.UI.pdb
+C:\Users\ts_ki\Documents\Visual Studio 2017\Backup Files\MasrafSolution\Masraf.UI\obj\Debug\Masraf.UI.BirimYöneticisi.resources
+C:\Users\ts_ki\Documents\Visual Studio 2017\Backup Files\MasrafSolution\Masraf.UI\obj\Debug\Masraf.UI.YetkiliGiris.resources
+C:\Users\ts_ki\Documents\Visual Studio 2017\Backup Files\MasrafSolution\Masraf.UI\obj\Debug\Masraf.UI.MuhasebeOnay.resources
+C:\Users\ts_ki\Documents\Visual Studio 2017\Backup Files\MasrafSolution\Masraf.UI\bin\Debug\EntityFramework.dll
+C:\Users\ts_ki\Documents\Visual Studio 2017\Backup Files\MasrafSolution\Masraf.UI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ts_ki\Documents\Visual Studio 2017\Backup Files\MasrafSolution\Masraf.UI\bin\Debug\EntityFramework.xml
+C:\Users\ts_ki\Documents\Visual Studio 2017\Backup Files\MasrafSolution\Masraf.UI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ts_ki\Documents\Visual Studio 2017\Backup Files\MasrafSolution\Masraf.UI\bin\Debug\Masraf.DAL.dll
+C:\Users\ts_ki\Documents\Visual Studio 2017\Backup Files\MasrafSolution\Masraf.UI\bin\Debug\Masraf.DAL.pdb
+C:\Users\ts_ki\Documents\Visual Studio 2017\Backup Files\MasrafSolution\Masraf.UI\bin\Debug\Masraf.DAL.dll.config
+C:\Users\ts_ki\Documents\Visual Studio 2017\Backup Files\MasrafSolution\Masraf.UI\bin\Debug\Masraf.PL.dll
+C:\Users\ts_ki\Documents\Visual Studio 2017\Backup Files\MasrafSolution\Masraf.UI\bin\Debug\Masraf.PL.pdb
+C:\Users\ts_ki\Documents\Visual Studio 2017\Backup Files\MasrafSolution\Masraf.UI\bin\Debug\Masraf.PL.dll.config
+C:\Users\ts_ki\Documents\Visual Studio 2017\Backup Files\MasrafSolution\Masraf.UI\obj\Debug\Masraf.UI.Yönetici.resources
+C:\Users\ts_ki\Documents\Visual Studio 2017\Backup Files\MasrafSolution\Masraf.UI\obj\Debug\Masraf.UI.Çalişan.resources
+C:\Users\ts_ki\Documents\Visual Studio 2017\Backup Files\MasrafSolution\Masraf.UI\obj\Debug\Masraf.UI.MuhasebeYetkiliGiris.resources
+C:\Users\KArslan\Desktop\kıvanç_arslan_MasrafTakip\kıvanç_arslan_MasrafTakip\MasrafSolution\Masraf.UI\bin\Debug\Masraf.UI.exe.config
+C:\Users\KArslan\Desktop\kıvanç_arslan_MasrafTakip\kıvanç_arslan_MasrafTakip\MasrafSolution\Masraf.UI\bin\Debug\Masraf.UI.exe
+C:\Users\KArslan\Desktop\kıvanç_arslan_MasrafTakip\kıvanç_arslan_MasrafTakip\MasrafSolution\Masraf.UI\bin\Debug\Masraf.UI.pdb
+C:\Users\KArslan\Desktop\kıvanç_arslan_MasrafTakip\kıvanç_arslan_MasrafTakip\MasrafSolution\Masraf.UI\bin\Debug\EntityFramework.dll
+C:\Users\KArslan\Desktop\kıvanç_arslan_MasrafTakip\kıvanç_arslan_MasrafTakip\MasrafSolution\Masraf.UI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\KArslan\Desktop\kıvanç_arslan_MasrafTakip\kıvanç_arslan_MasrafTakip\MasrafSolution\Masraf.UI\bin\Debug\Masraf.DAL.dll
+C:\Users\KArslan\Desktop\kıvanç_arslan_MasrafTakip\kıvanç_arslan_MasrafTakip\MasrafSolution\Masraf.UI\bin\Debug\Masraf.PL.dll
+C:\Users\KArslan\Desktop\kıvanç_arslan_MasrafTakip\kıvanç_arslan_MasrafTakip\MasrafSolution\Masraf.UI\bin\Debug\Masraf.DAL.pdb
+C:\Users\KArslan\Desktop\kıvanç_arslan_MasrafTakip\kıvanç_arslan_MasrafTakip\MasrafSolution\Masraf.UI\bin\Debug\Masraf.DAL.dll.config
+C:\Users\KArslan\Desktop\kıvanç_arslan_MasrafTakip\kıvanç_arslan_MasrafTakip\MasrafSolution\Masraf.UI\bin\Debug\Masraf.PL.pdb
+C:\Users\KArslan\Desktop\kıvanç_arslan_MasrafTakip\kıvanç_arslan_MasrafTakip\MasrafSolution\Masraf.UI\bin\Debug\Masraf.PL.dll.config
+C:\Users\KArslan\Desktop\kıvanç_arslan_MasrafTakip\kıvanç_arslan_MasrafTakip\MasrafSolution\Masraf.UI\bin\Debug\EntityFramework.xml
+C:\Users\KArslan\Desktop\kıvanç_arslan_MasrafTakip\kıvanç_arslan_MasrafTakip\MasrafSolution\Masraf.UI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\KArslan\Desktop\kıvanç_arslan_MasrafTakip\kıvanç_arslan_MasrafTakip\MasrafSolution\Masraf.UI\obj\Debug\Masraf.UI.csprojResolveAssemblyReference.cache
+C:\Users\KArslan\Desktop\kıvanç_arslan_MasrafTakip\kıvanç_arslan_MasrafTakip\MasrafSolution\Masraf.UI\obj\Debug\Masraf.UI.BirimYöneticisi.resources
+C:\Users\KArslan\Desktop\kıvanç_arslan_MasrafTakip\kıvanç_arslan_MasrafTakip\MasrafSolution\Masraf.UI\obj\Debug\Masraf.UI.MuhasebeYetkiliGiris.resources
+C:\Users\KArslan\Desktop\kıvanç_arslan_MasrafTakip\kıvanç_arslan_MasrafTakip\MasrafSolution\Masraf.UI\obj\Debug\Masraf.UI.Yönetici.resources
+C:\Users\KArslan\Desktop\kıvanç_arslan_MasrafTakip\kıvanç_arslan_MasrafTakip\MasrafSolution\Masraf.UI\obj\Debug\Masraf.UI.Form1.resources
+C:\Users\KArslan\Desktop\kıvanç_arslan_MasrafTakip\kıvanç_arslan_MasrafTakip\MasrafSolution\Masraf.UI\obj\Debug\Masraf.UI.MuhasebeOnay.resources
+C:\Users\KArslan\Desktop\kıvanç_arslan_MasrafTakip\kıvanç_arslan_MasrafTakip\MasrafSolution\Masraf.UI\obj\Debug\Masraf.UI.Properties.Resources.resources
+C:\Users\KArslan\Desktop\kıvanç_arslan_MasrafTakip\kıvanç_arslan_MasrafTakip\MasrafSolution\Masraf.UI\obj\Debug\Masraf.UI.YetkiliGiris.resources
+C:\Users\KArslan\Desktop\kıvanç_arslan_MasrafTakip\kıvanç_arslan_MasrafTakip\MasrafSolution\Masraf.UI\obj\Debug\Masraf.UI.Çalişan.resources
+C:\Users\KArslan\Desktop\kıvanç_arslan_MasrafTakip\kıvanç_arslan_MasrafTakip\MasrafSolution\Masraf.UI\obj\Debug\Masraf.UI.csproj.GenerateResource.Cache
+C:\Users\KArslan\Desktop\kıvanç_arslan_MasrafTakip\kıvanç_arslan_MasrafTakip\MasrafSolution\Masraf.UI\obj\Debug\Masraf.UI.csproj.CoreCompileInputs.cache
+C:\Users\KArslan\Desktop\kıvanç_arslan_MasrafTakip\kıvanç_arslan_MasrafTakip\MasrafSolution\Masraf.UI\obj\Debug\Masraf.UI.exe
+C:\Users\KArslan\Desktop\kıvanç_arslan_MasrafTakip\kıvanç_arslan_MasrafTakip\MasrafSolution\Masraf.UI\obj\Debug\Masraf.UI.pdb
