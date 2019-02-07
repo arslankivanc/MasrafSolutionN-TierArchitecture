@@ -18,21 +18,6 @@ namespace Masraf.UI
         {
             InitializeComponent();
         }
-        
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void pictureBox1_Click(object sender, EventArgs e)
-        {
-
-        }
-        
-        private void YetkiliGiris_Load(object sender, EventArgs e)
-        {
-            
-        }
         MasrafTakipEntities mGiris;
         public  string ad="";
         public  string soyad="";
