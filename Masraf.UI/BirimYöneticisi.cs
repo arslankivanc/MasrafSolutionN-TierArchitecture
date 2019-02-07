@@ -39,10 +39,6 @@ namespace Masraf.UI
             dataGridView1.DataSource = mRepo.SelecAllBirimYön();
         }
 
-        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
-        {
-            
-        }
         Masraflar sec;
         private void dataGridView1_DoubleClick(object sender, EventArgs e)
         {
@@ -124,15 +120,6 @@ namespace Masraf.UI
                 
 
             }
-        }
-        private void comboBox1_SelectedValueChanged(object sender, EventArgs e)
-        {
-            
-        }
-
-        private void comboBox2_SelectionChangeCommitted(object sender, EventArgs e)
-        {
-            
         }
 
         private void comboBox1_SelectionChangeCommitted(object sender, EventArgs e)
